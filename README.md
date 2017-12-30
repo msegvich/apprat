@@ -1,0 +1,2 @@
+# apprat
+Application Rationalization System
